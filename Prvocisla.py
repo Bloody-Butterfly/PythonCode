@@ -10,7 +10,6 @@ def poznej_prvocislo(x):
             return False
     return True
 
-
 def poznej_prvocislo2(x, bublifuk):
     z = x / 2
     for y in bublifuk:
